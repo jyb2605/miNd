@@ -1,7 +1,7 @@
 # miNd User Guide
 
 ### Method Description
-![MethodDescription](../Method.png)
+![MethodDescription](./Method.png)
  * startDrive()를 통해 안전점수 측정을 시작할 수 있음
  * stopDrive()을 통해 안전점수 측정을 종료할 수 있으며, 종료 시 측정한 안전점수를 이용하여 Ethereum Block을 생성한다.
  * clearScore()를 통해 안전점수를 초기화 할 수 있음.
