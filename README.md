@@ -1,8 +1,8 @@
 # miNd
 
-miNd는 이더리움 기반 안전운전 점수 측정 서비스입니다.
-Android의 GPS센서, gyroscope센서를 이용하여 운전시 급정거 / 급가속 / 과속 / 방지턱 통과시 감속여부 / 신호위반 등을 측정합니다.
-측정한 정보들의 신뢰성을 보장하기 위해 이더리움을 사용하여 안전점수를 담은 블록을 생성합니다.
+* miNd는 이더리움 기반 안전운전 점수 측정 서비스입니다.
+* Android의 GPS와 자이로스코프 센서를 이용하여 운전시 급정거 / 급가속 / 과속 / 방지턱 통과시 감속여부 / 신호위반 등을 측정합니다.
+* 측정한 정보들의 신뢰성을 보장하기 위해 이더리움을 사용하여 안전점수를 담은 블록을 생성합니다.
 
 ### Technical Details
   * 프로젝트 miNd의 기본 적인 서버 구성은 nginx, php, mysql 로 이루어 진다.
@@ -10,6 +10,10 @@ Android의 GPS센서, gyroscope센서를 이용하여 운전시 급정거 / 급�
   * 해당 JSON-RPC 프로토콜을 통해 메인 API 서버로 들어온 운행정보를 이용해 안전점수를 측정하여 블록에 저장한다.
   * 위의 프로세스를 제공해주는 SDK를 개발사에게 배포하며, SDK는 Java 기반으로 JVM 위에서 동작하는 플랫폼에 한해 제공된다.
   * 또한 SDK와 함께 API를 공급할 수 있도록 API 개발자 사이트를 React JS를 기반으로 제작하며, Java 기반의 Android Reference 애플리케이션을 제작한다.
+
+### User Guide
+ * [User Guide](https://github.com/jyb2605/miNd/blob/master/UserGuide.md)
+
 
 ### System Diagram
 ![SystemDiagram](./SystemDiagram.jpg)
