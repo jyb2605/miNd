@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/986d3780baef35f89abb5fdf1a6d159a479c3e07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bf6478a94557fe9048e57fac0c83d058b5d6555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/c3d173ccca3b2ecc5e6c23b077a804f0d7e31360/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7263f0c394777decdb2da129681a0ef8175a285e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/67645da31afdc5486ed8db91e84d95073b4ba59f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f77d893cbaaecf6bece21de935c97985f13841e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/b19fa96644e6eb04fa57d9e23a0103e44a5594f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76aa1e5f7ccf5f501e96debbd85651ae92a72c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/b65b6e3a969fe9ff25d72e9f59f02d9d191d0b81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb3afeb4f3e6fe20af1dcaa2da9c9042d346ddc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_a50d782dc3608324d2e64d38e363ead84cc9d097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc5aa01348f9cf4b81edd4d5afb1fdc8877674b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/51ec7067d236f44ef89fc8ee3edef929c2039c58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_761d73aa87e2d2af323fb3b5cd7cab8b80c59de7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/55b1d5d6d5b788ef6afd5844f4d2972d40ea6d69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caf46dd25796079542174c2be7b3f4452b63f82c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/3e58dfdd367f47d6cb878d8f3402af605565fbb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d70c91f2a773ffd241ee591c179bfc566e2f4849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/7d489bb093085ca7a712d596f7684e7b27768bbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef8caa3d7a74b703d69fea793a637b09bb481986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/c48fd23ca399e4c96c154cc06529c89f933e1c4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d2ad7b41a2f952fdc4a88813978ce00535c25c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/ddd284ee813cc4572be63437ee5907930a646866/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d67c57fddeed61fc00dab2f0d12d0de95876fb40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/8016e2f943d0362604942553aa31d5f42a666b42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c319591c9df6e2c897e6fbcd30a7b90704d5183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/28d9c0d48e8f6e1a63a80d68a17e35e0f429967e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3855a50e9bf94e08a64e12702afc780a3084b293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/bf3eb554d88b3508f041f89a0ea020e9f29bbe04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4bbebc146b87ddb2d3cb878044432a9cb2046a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/a3025244d3f0e228bac6556386cb1f1356810bb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fc14808ab581d2613672904245dcbcd2b675b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_447059daaa847605a0f050f780e50b812d0a0da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec5a000527b821db34892e4803f85fca123ac28e">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c66f31ac7ece216cb1db9ae48ae9dbe4f2a70be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_35792f3a08505c171a185d9b1f60a6988ae53cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/040c0fa516d525b732f0d097b6e9b6b07dc3dbb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4712edf0987a8196aab2b04101a7283bda21b0bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/bb6c0ffe9dbb78e60cfdf122b06eae1ed7530b1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc15349f8bf6c2d380ad85f4cf85e17caf26b5f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_060317df9b29832bb2592d36672c3aebad15c6c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/.android/build-cache/c4f1a3bce73bed4a89d1a0a1e47555fc7181a017/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f3186a9df1979cd5673bcdb45a97adf6bec9043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hanul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/hanul/onedrive/Project/20. SafeCar ★/SafeCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_2c10942937319284693bff136f6eaccabae0ca16/classes.dex" />
+    </item>
+
+</items>
