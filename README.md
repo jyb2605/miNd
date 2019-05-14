@@ -12,7 +12,7 @@ Android의 GPS센서, gyroscope센서를 이용하여 운전시 급정거 / 급�
   * 또한 SDK와 함께 API를 공급할 수 있도록 API 개발자 사이트를 React JS를 기반으로 제작하며, Java 기반의 Android Reference 애플리케이션을 제작한다.
 
 ### System Diagram
-![SystemDiagram](./SystemDiagram.png)
+![SystemDiagram](./SystemDiagram.jpg)
 ```* Project miNd API Server : Open API Interface에서 받아오는 안전운전 점수를 블록을 생성하여 저장
 * Open API Interface : 개발사들의 애플리케이션에서 사용자의 운전기록을 Project miNd API Server로 전달
 * Web Page(for developer) : 개발사들에게 제공되는 서비스 개발자 페이지
